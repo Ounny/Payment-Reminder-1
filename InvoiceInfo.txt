@@ -1,0 +1,4 @@
+1001/makny/Data Science/2023-12-19/2024-01-18/[Tuition, Materials]/[200.0, 50.0]/250.0
+1008/narath/Esport/2023-12-19/2024-01-18/[tution]/[500.0]/500.0
+1010/sokhour/Cyber/2023-12-19/2024-01-18/[Tution, Material Fee, Parking Slot]/[500.0, 20.0, 30.0]/550.0
+1011/ju/Data Science/2023-12-19/2024-01-18/[Tution]/[200.0]/200.0
